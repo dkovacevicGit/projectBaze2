@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.599,C:\Stari_D\RAD_C++\progBaze1\Project1.cbproj=C:\Stari_D\RAD_C++\progBaze1\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Stari_D\RAD_C++\Project1.cbproj=C:\Stari_D\RAD_C++\progBaze1\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,C:\Stari_D\RAD_C++\Unit1.cpp=C:\Stari_D\RAD_C++\progBaze1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Stari_D\RAD_C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,C:\Stari_D\RAD_C++\Project1PCH1.h=C:\Stari_D\RAD_C++\progBaze1\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,=C:\Stari_D\RAD_C++\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,C:\Stari_D\RAD_C++\Unit1.dfm=C:\Stari_D\RAD_C++\progBaze1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,C:\Stari_D\RAD_C++\Unit1.h=C:\Stari_D\RAD_C++\progBaze1\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
